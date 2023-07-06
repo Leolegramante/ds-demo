@@ -1,0 +1,3 @@
+{
+    "extends": "@ds-demo/eslint-config"
+}
