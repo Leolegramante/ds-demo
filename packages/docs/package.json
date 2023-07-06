@@ -32,6 +32,8 @@
     "@ds-demo/eslint-config": "*",
     "@ds-demo/ts-config": "*",
     "@ds-demo/react": "*",
-    "@ds-demo/tokens": "*"
+    "@ds-demo/tokens": "*",
+    "phosphor-react": "^1.4.1",
+    "polished": "^4.2.2"
   }
 }
